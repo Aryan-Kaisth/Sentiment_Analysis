@@ -1,4 +1,4 @@
-![Banner](assets\banner.gif)
+![Banner](assets/banner.gif)
 ---
 
 # Sentiment Analysis Project
@@ -61,4 +61,4 @@ The trained model was thoroughly evaluated on unseen test data and hold out vali
 ---
 
 ### Preview
-![preview](assets\project_preview.png)
+![preview](assets/project_preview.png)
