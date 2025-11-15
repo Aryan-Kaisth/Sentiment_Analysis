@@ -1,0 +1,11 @@
+[2025-11-15 19:12:19,349] 60 root - INFO - Entered the load_object method of main_utils
+[2025-11-15 19:12:19,935] 64 root - INFO - Exited the load_object method of main_utils
+[2025-11-15 19:12:27,850] 23 root - INFO - \u2705 PredictionPipeline initialized successfully.
+[2025-11-15 19:12:40,628] 38 root - INFO - Input text recieved -> I had an absolutely wonderful experience with this product. It exceeded all my expectations, and the customer service was incredibly helpful and friendly. I would highly recommend it to anyone looking for quality and reliability
+[2025-11-15 19:12:40,628] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:12:44,036] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:12:44,447] 45 root - INFO - \u2705 Predictions generated successfully: [[0.2239504]]
+[2025-11-15 19:12:56,712] 38 root - INFO - Input text recieved -> I was extremely disappointed with the service I received. The staff seemed completely uninterested in helping, and it took forever to get any response. Overall, the entire experience left me frustrated and unsatisfied.
+[2025-11-15 19:12:56,713] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:12:56,714] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:12:56,800] 45 root - INFO - \u2705 Predictions generated successfully: [[0.01474831]]

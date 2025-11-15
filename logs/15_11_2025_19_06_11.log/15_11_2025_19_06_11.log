@@ -1,0 +1,31 @@
+[2025-11-15 19:06:17,219] 60 root - INFO - Entered the load_object method of main_utils
+[2025-11-15 19:06:17,641] 64 root - INFO - Exited the load_object method of main_utils
+[2025-11-15 19:06:24,547] 23 root - INFO - \u2705 PredictionPipeline initialized successfully.
+[2025-11-15 19:06:32,783] 38 root - INFO - Input text recieved -> gdghc
+[2025-11-15 19:06:32,783] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:06:36,440] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:06:36,827] 45 root - INFO - \u2705 Predictions generated successfully: [[0.06506179]]
+[2025-11-15 19:07:12,725] 38 root - INFO - Input text recieved -> gdghc
+[2025-11-15 19:07:12,725] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:07:12,725] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:07:12,821] 45 root - INFO - \u2705 Predictions generated successfully: [[0.06506179]]
+[2025-11-15 19:07:31,219] 38 root - INFO - Input text recieved -> gdghc
+[2025-11-15 19:07:31,219] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:07:31,220] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:07:31,323] 45 root - INFO - \u2705 Predictions generated successfully: [[0.06506179]]
+[2025-11-15 19:08:07,618] 38 root - INFO - Input text recieved -> I was extremely disappointed with the service I received. The staff seemed completely uninterested in helping, and it took forever to get any response. Overall, the entire experience left me frustrated and unsatisfied.
+[2025-11-15 19:08:07,618] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:08:07,619] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:08:07,705] 45 root - INFO - \u2705 Predictions generated successfully: [[0.01474831]]
+[2025-11-15 19:08:27,063] 38 root - INFO - Input text recieved -> I had an absolutely wonderful experience with this product. It exceeded all my expectations, and the customer service was incredibly helpful and friendly. I would highly recommend it to anyone looking for quality and reliability.
+[2025-11-15 19:08:27,063] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:08:27,064] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:08:27,153] 45 root - INFO - \u2705 Predictions generated successfully: [[0.2239504]]
+[2025-11-15 19:08:31,265] 38 root - INFO - Input text recieved -> I had an absolutely wonderful experience with this product. It exceeded all my expectations, and the customer service was incredibly helpful and friendly. I would highly recommend it to anyone looking for quality and reliability.
+[2025-11-15 19:08:31,265] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:08:31,266] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:08:31,350] 45 root - INFO - \u2705 Predictions generated successfully: [[0.2239504]]
+[2025-11-15 19:09:31,915] 38 root - INFO - Input text recieved -> I really enjoyed using this product — it’s reliable, looks great, and makes my daily routine much easier.
+[2025-11-15 19:09:31,915] 39 root - INFO - \U0001f504 Transforming input text using custom preprocessor
+[2025-11-15 19:09:31,916] 42 root - INFO - \U0001f9e0 Generating predictions using trained model...
+[2025-11-15 19:09:31,999] 45 root - INFO - \u2705 Predictions generated successfully: [[0.9999876]]

@@ -1,0 +1,2 @@
+glove-twitter-200
+fasttext-wiki-news-subwords-300
