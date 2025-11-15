@@ -59,6 +59,6 @@ The trained model was thoroughly evaluated on unseen test data and hold out vali
   * **ROC AUC:** 0.9987 → Model is near-perfect in ranking positive instances higher than negatives.
   * **Loss:** 0.0468 → Very low binary cross-entropy loss, indicating the model is well-optimized.
 ---
-### Preview
 
+### Preview
 ![preview](assets\project_preview.png)
