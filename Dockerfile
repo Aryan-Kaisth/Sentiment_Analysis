@@ -13,6 +13,7 @@ ENV PYTHONUNBUFFERED=1
 
 # 5. Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
+RUN python3 -m nltk.downloader punkt punkt_tab stopwords wordnet
 
 # 6. Copy rest of the project files (including data, src, app, etc.)
 COPY . .
