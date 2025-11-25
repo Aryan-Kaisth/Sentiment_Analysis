@@ -1,7 +1,5 @@
 # src/components/model_trainer.py
 import os, sys
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import r2_score, root_mean_squared_error, mean_absolute_error
 from dataclasses import dataclass
 from src.logger import logging
 from src.exception import CustomException
